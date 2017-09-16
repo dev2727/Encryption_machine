@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="SSR:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/SSR_jar2</output-path>
+    <root id="root">
+      <element id="archive" name="SSR.jar">
+        <element id="module-output" name="SSR" />
+      </element>
+    </root>
+  </artifact>
+</component>
